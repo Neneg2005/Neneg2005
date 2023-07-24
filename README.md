@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neneg2005
-- 👀 I’m interested in working as a Data Analyst in the future.
-- 🌱 I’m currently learning how to code in Python/ gaining skills required for Data Analytics.
+- 👀 I’m interested in working in the Tech industry in the future. 
+- 🌱 I’m currently learning how to code in Python through projects.
 - 📫 How to reach me: Nehagurnani68@gmail.com
 
 <!---
